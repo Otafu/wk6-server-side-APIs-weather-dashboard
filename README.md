@@ -18,7 +18,7 @@ Desktop screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-https://otafu.github.io/wk5-challenge-third-party-apis-work-day-scheduler/
+https://otafu.github.io/wk6-server-side-APIs-weather-dashboard/
 
 
 
